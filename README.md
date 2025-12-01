@@ -14,9 +14,7 @@ Contributors
 
 🌟 Overview
 Modern educational institutions face significant challenges in managing large-scale student data, resource allocation, and academic workflows. This system addresses these challenges through algorithmic rigor, efficient data structures, and modular design principles.
-Developed as part of: Bachelor of Technology in Information Technology
-Institution: Vishwakarma Institute of Technology, Pune
-Under the guidance of: Prof. Dr. Poonam Pawar
+
 ✨ Key Features
 
 🏆 Placement Ranking System - Merit-based student ranking using multi-tier comparison

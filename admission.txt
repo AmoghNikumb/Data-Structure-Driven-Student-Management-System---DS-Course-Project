@@ -1,0 +1,10 @@
+# Admission Data File
+# Format: Name,BoardMarks(0-100),CETMarks(0-200),JEEMarks(0-300)
+Alice Johnson,95,180,250
+Bob Smith,88,165,220
+Charlie Brown,92,175,280
+Diana Prince,96,190,290
+Eve Wilson,85,160,200
+Frank Miller,90,170,240
+Grace Lee,93,185,270
+Henry Davis,87,155,210
